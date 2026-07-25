@@ -8,11 +8,6 @@ Descripción
 
 Flujo completo de generación de respuestas con IA a partir de distintos canales de consulta. Flujo independiente para el envío de la respuesta previa intervención humana
 
-Arquitectura
-
-## System Architecture
-
-
 ## Technologies
 
 - Make
@@ -21,10 +16,6 @@ Arquitectura
 - Gmail
 - Airtable Interface
 
-Flujo
-
-
-Características
 
 ## Features
 
